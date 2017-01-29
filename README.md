@@ -1,6 +1,4 @@
-# Data-Visualisation
-
-#Dependencies
+# Dependencies
 You need ```Python``` 2.7.x and 3 ```Python``` libraries: ```Pandas```, ```Flask```, ```Shapely```.
 ----
 
