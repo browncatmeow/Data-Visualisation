@@ -1,10 +1,9 @@
 # Dependencies
+
 You need ```Python``` 2.7.x and 3 ```Python``` libraries: ```Pandas```, ```Flask```, ```Shapely```.
-----
 
 # Resources
 
----
 [Flask](http://flask.pocoo.org/) is a Python web microframework.
 
 [dc.js](http://dc-js.github.io/dc.js/) is a javascript charting library with
