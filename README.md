@@ -1,3 +1,7 @@
+This data vizualization is largely based on this
+[tutorial](http://adilmoujahid.com/posts/2016/08/interactive-data-visualization-geospatial-d3-dc-leaflet-python/) 
+by Adil Moujahid, with slight modifications on syntax.
+
 # Dependencies
 
 You need ```Python``` 2.7.x and 3 ```Python``` libraries: ```Pandas```, ```Flask```, ```Shapely```.
@@ -17,6 +21,3 @@ based on data.
 
 [leaflet.js](http://leafletjs.com/) is JavaScript library for interactive maps.
 
-This data vizualization is based on this
-[tutorial](http://adilmoujahid.com/posts/2016/08/interactive-data-visualization-geospatial-d3-dc-leaflet-python/) 
-by Adil Moujahid.
